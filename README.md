@@ -1,2 +1,4 @@
-# C-K-t-phane-Otomasyonu
-Yönetici ve çalışan girişleri, kullanıcı kaydetme, kitap ekleme silme güncelleme.
+# C#-Kutuphane-Otomasyonu
+Admin Girişi yaptıktan sonra Çalışanları Kaydedebildiği Çalışanların ise kullanıcıların kaydını oluşturabildiği bir otomasyon,
+Burda Kitap Ekleme Silme Güncelleme mevcut aynı şekilde,
+Kullanıcı Ekle, Sil, Güncelle mevcuttur.
